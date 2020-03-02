@@ -1,0 +1,17 @@
+p {
+    font-size: 40px;
+}
+
+p::first-letter {
+    color: yellow;
+}
+
+h5::first-line {
+    color: tomato;
+    background-color: teal;
+}
+
+h5::selection {
+    color: green;
+    background-color: red;
+}

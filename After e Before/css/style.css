@@ -1,0 +1,9 @@
+p::before {
+    content: "Olá eu sou ";
+    color: aqua;
+}
+
+p::after {
+    content: "CSS";
+    color: lightcoral;
+}
